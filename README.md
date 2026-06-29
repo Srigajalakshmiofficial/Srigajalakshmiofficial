@@ -9,9 +9,10 @@
 
 <a href="https://github.com/srigajalakshmiofficial" target="_blank"><img src="assets/github.png" height="35"/></a> &nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/srigajalakshmi" target="_blank"><img src="assets/linkedin.png" alt="LinkedIn" height="35"/></a> &nbsp;&nbsp;&nbsp;
-<a href="mailto:srigajalakshmipxia@gmail.com" target="_blank"><img src="assets/mail%20(1).png" alt="Email" height="35"/></a>
+<a href="mailto:srigajalakshmipxia@gmail.com" target="_blank"><img src="assets/mail%20(1).png" alt="Email" height="35"/></a> &nbsp;&nbsp;&nbsp;
+<img src="https://komarev.com/ghpvc/?username=srigajalakshmiofficial&color=22c55e&style=flat-square&label=VIEWS" alt="Views" height="35"/>
 
-
+<br><br>
 
 </div>
 
