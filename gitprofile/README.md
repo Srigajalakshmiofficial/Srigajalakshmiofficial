@@ -4,13 +4,14 @@
 <!--                     BANNER & HEADER                           -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="assets/banner.png" alt="Header Banner" width="100%"/>
+<img src="assets/banner.jpg" alt="Header Banner" width="100%"/>
+<br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=22C55E&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=RTL+%26+Verification+Engineer+%7C+ISWDP+Fellow;FPGA+Designer+%7C+Verilog+%2F+SystemVerilog;Logic+Synthesis+%7C+Synopsys+Fusion+Compiler;Pre-Final+Year+%40+RIT+Chennai+%7C+Open+to+Work)](https://git.io/typing-svg)
+<a href="https://github.com/srigajalakshmiofficial" target="_blank"><img src="https://img.shields.io/badge/-%20-181717?style=for-the-badge&logo=github&logoColor=white" height="35"/></a> &nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/srigajalakshmi" target="_blank"><img src="assets/linkedin.png" alt="LinkedIn" height="35"/></a> &nbsp;&nbsp;&nbsp;
+<a href="mailto:srigajalakshmipxia@gmail.com" target="_blank"><img src="assets/mail%20(1).png" alt="Email" height="35"/></a>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=srigajalakshmi&style=flat-square&color=22C55E&label=VIEWS)](https://github.com/srigajalakshmi)
-[![GitHub Followers](https://img.shields.io/github/followers/srigajalakshmi?style=flat-square&color=22C55E&labelColor=0D1117&label=FOLLOWERS&logo=github)](https://github.com/srigajalakshmi?tab=followers)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-22C55E?style=flat-square&logo=linkedin&logoColor=white&labelColor=0D1117)](https://www.linkedin.com/in/srigajalakshmi)
+
 
 </div>
 
@@ -111,9 +112,9 @@ I am a pre-final year **Electronics Engineering (VLSI D&T)** student at **Rajala
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srigajalakshmi)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srigajalakshmipxia@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/srigajalakshmiofficial)
+<a href="https://github.com/srigajalakshmiofficial" target="_blank"><img src="https://img.shields.io/badge/-%20-181717?style=for-the-badge&logo=github&logoColor=white" height="35"/></a> &nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/srigajalakshmi" target="_blank"><img src="assets/linkedin.png" alt="LinkedIn" height="35"/></a> &nbsp;&nbsp;&nbsp;
+<a href="mailto:srigajalakshmipxia@gmail.com" target="_blank"><img src="assets/mail%20(1).png" alt="Email" height="35"/></a>
 
 </div>
 
